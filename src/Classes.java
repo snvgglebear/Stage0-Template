@@ -12,7 +12,7 @@
 // with x = 0 and y = 0.
 
 
-void main() {
+public static void main() {
     // Create two `Point` objects: one representing the point (2, 5) and stored
     // in the variable `pointOne`, and the other representing the point (3, 0)
     // and stored in the variable `pointTwo`.
