@@ -10,6 +10,7 @@
 // Lastly, below the definitions of the `x` and `y` fields, define a static final
 // field `ORIGIN`, of type `Point`, and assign to it a new `Point` instance
 // with x = 0 and y = 0.
+public class Point {
 
 
 void main() {
@@ -49,4 +50,5 @@ void main() {
     // check to a variable first, such as `pointsEqual`, then check the boolean
     // value of that in conditional statements.
 
+}
 }
